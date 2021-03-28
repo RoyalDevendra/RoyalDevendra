@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @RoyalDevendra
+<h1 align="center">Hi 👋 I'm Devendra</h1>
+
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Java.
+
 - 💞️ I’m currently working on Telegram Userbot.
+
 - 📫 You can reach me [here](https://telegram.me/Royal_Devendra).
+
+- ⚡️ Fun fact I'm a noob.
 
 - 📍 From Rajasthan/India
 
