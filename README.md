@@ -11,7 +11,13 @@
 - 📍 From Rajasthan/India
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoyalDevendra&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="RoyalDevendra" /></p>
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xditya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xditya" /></p>
+
 
 
 <!---
