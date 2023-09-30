@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Coding.
 
-- 💞️ I’m currently working on Telegram Userbot.
+- 💞️ I’m currently studying.
 
 - 📫 You can reach me [here](https://telegram.me/Royal_Devendra).
 
@@ -16,7 +16,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xditya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xditya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royaldevendra&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="RoyalDevendra" /></p>
 
 
 
